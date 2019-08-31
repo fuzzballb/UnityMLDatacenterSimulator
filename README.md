@@ -14,11 +14,15 @@
 ## Setting up the Python environment
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
 
+Alternatively you can use miniconda, see clankill3r's comment
+
 https://github.com/Unity-Technologies/ml-agents/issues/1979
 
 ## Train your UnityML environment
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Basic-Guide.md
 
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Create-New.md
+
+The type or namespace name 'TensorFlow' could not be found
 
 https://github.com/Unity-Technologies/ml-agents/issues/1511
