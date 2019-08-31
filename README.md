@@ -12,9 +12,12 @@
 
 ## Setting up the Python environment
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
+
 https://github.com/Unity-Technologies/ml-agents/issues/1979
 
 ## Train your UnityML environment
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Basic-Guide.md
+
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Create-New.md
+
 https://github.com/Unity-Technologies/ml-agents/issues/1511
