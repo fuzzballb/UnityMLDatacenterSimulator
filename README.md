@@ -2,4 +2,4 @@
  Game where you cool a server and try to beat the AI
  
  
- [[https://https://https://github.com/fuzzballb/UnityMLDatacenterSimulator/blob/master/Screenshot.PNG|alt=Screenshot]]
+ [[https://https://github.com/fuzzballb/UnityMLDatacenterSimulator/blob/master/Screenshot.PNG|alt=Screenshot]]
