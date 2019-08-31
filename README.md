@@ -6,6 +6,7 @@
  UnityML API 0.9
  
 [![Screenshot](https://github.com/fuzzballb/UnityMLDatacenterSimulator/blob/master/Screenshot.PNG)](https://www.youtube.com/watch?v=BhtJ-7Sc3kY)
+Click to play youtube video
 
 # UnityML useful links
 
